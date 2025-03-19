@@ -20,7 +20,7 @@ Este es un proyecto web interactivo para realizar un sorteo de **Amigo Secreto**
 ## Instalación y Uso
 1. **Descargar o clonar el repositorio**
    ```bash
-   
+   https://github.com/EYCLAVIJOC/Challenge-amigo--secreto.git
    ```
 2. **Abrir el archivo `index.html` en un navegador**.
 3. **Agregar nombres** en el campo de entrada.
